@@ -1,8 +1,28 @@
 {
   "ads": [
     {
-      "image": "ad_default.png",
-      "url": "https://jupjupi.com?utm_source=ppekkomit&utm_medium=memo_panel&utm_campaign=house",
+      "image": "ad_jupjup_v3_A.png",
+      "url": "https://jupjupi.com",
+      "weight": 1
+    },
+    {
+      "image": "ad_jupjup_v3_B.png",
+      "url": "https://jupjupi.com",
+      "weight": 1
+    },
+    {
+      "image": "ad_jupjup_v3_C.png",
+      "url": "https://jupjupi.com",
+      "weight": 1
+    },
+    {
+      "image": "ad_jupjup_v3_D.png",
+      "url": "https://jupjupi.com",
+      "weight": 1
+    },
+    {
+      "image": "ad_jupjup_v3_E.png",
+      "url": "https://jupjupi.com",
       "weight": 1
     }
   ]
